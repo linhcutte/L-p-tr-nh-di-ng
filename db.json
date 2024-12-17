@@ -19,7 +19,9 @@
 			"base64Image": ""
 		}
 	],
-  "profile": {
-    "name": "typicode"
-  }
+  "user": [
+    " usersname":"linh"
+    "passwword": "typicode"
+    "fullname":" nguyen danh linh"
+  ]
 }
